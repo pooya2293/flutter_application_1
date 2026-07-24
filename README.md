@@ -21,6 +21,8 @@ screenShots of project = {
     [the bug in auth filed is solved]<video controls src="20260724-1212-33.9326661.mp4" title="Title"></video>,
     [color change when click on auth filed]<video controls src="20260724-1315-45.7197348.mp4" title="Title"></video>,
     [padding between up & down elements]![first is bad](image.png)
-    [padding between up & down elements]![second is good](image-2.png)
+    [padding between up & down elements]![second is good](image-2.png),
+    [padding between right & left elements]![first is bad](image-3.png)
+    [padding between right & left elements]![second is good](image-4.png),
 
 }
