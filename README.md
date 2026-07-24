@@ -16,5 +16,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 screenShots of project = {
-    ![make auth filed 1](image-1.png)
+    ![make auth filed 1](image-1.png),
+    [this bug in auth filed]<video controls src="20260724-1159-51.2594283.mp4" title="Title"></video>
+    [the bug in auth filed is solved]<video controls src="20260724-1212-33.9326661.mp4" title="Title"></video>
 }
