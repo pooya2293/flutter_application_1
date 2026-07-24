@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/features/auth/presentaion/widgets/auth_field.dart';
 
 class SignUpPage extends StatefulWidget {
   const SignUpPage({super.key});
@@ -18,6 +19,7 @@ class _SignUpPageState extends State<SignUpPage> {
             'Sign Up.',
             style: TextStyle(fontSize: 50, fontWeight: FontWeight.bold),
           ),
+          AuthField(hintText: 'Email'),
         ],
       ),
     );
