@@ -18,5 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 screenShots of project = {
     ![make auth filed 1](image-1.png),
     [this bug in auth filed]<video controls src="20260724-1159-51.2594283.mp4" title="Title"></video>
-    [the bug in auth filed is solved]<video controls src="20260724-1212-33.9326661.mp4" title="Title"></video>
+    [the bug in auth filed is solved]<video controls src="20260724-1212-33.9326661.mp4" title="Title"></video>,
+    [color change when click on auth filed]<video controls src="20260724-1315-45.7197348.mp4" title="Title"></video>,
+    [padding between up & down elements]![first is bad](image.png)
+    [padding between up & down elements]![second is good](image-2.png)
+
 }
