@@ -4,6 +4,9 @@ import 'package:flutter_application_1/features/auth/presentaion/widgets/auth_fie
 import 'package:flutter_application_1/features/auth/presentaion/widgets/auth_gradient_button.dart';
 
 class SignUpPage extends StatefulWidget {
+  static route() => MaterialPageRoute(
+    builder: (context) => const SignUpPage()
+  );
   const SignUpPage({super.key});
 
   @override

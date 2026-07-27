@@ -50,12 +50,7 @@ class _LoginPageState extends State<LoginPage> {
               const SizedBox(height: 20),
               GestureDetector(
                 onTap: () {
-                  Navigator.push(
-                    context, 
-                    MaterialPageRoute(
-                      builder: (context) => const SignUpPage()
-                    )
-                  );
+                  Navigator.push(context,SignUpPage.route());
                 },
                 child: RichText(
                   text: TextSpan(
