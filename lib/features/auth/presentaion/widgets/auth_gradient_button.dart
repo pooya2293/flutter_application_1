@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_application_1/core/theme/app_pallet.dart';
 
 class AuthGradientButton extends StatelessWidget {
-  final buttonText;
+
+  final String buttonText;
   const AuthGradientButton({
       super.key,
       required this.buttonText
