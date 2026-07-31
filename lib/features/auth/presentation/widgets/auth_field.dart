@@ -14,11 +14,10 @@ class AuthField extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return TextFormField(
-      decoration: InputDecoration(
-        hintText: hintText,
-      ),
-      validator: (value){
-        if(value!.isEmpty){
+      controller: controller, // added by Gemeni
+      decoration: InputDecoration(hintText: hintText),
+      validator: (value) {
+        if (value!.isEmpty) {
           return '$hintText is missing';
         }
         return null;
